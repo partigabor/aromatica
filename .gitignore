@@ -1,8 +1,5 @@
 # Database
-database/output
-database/data/resources/wcvp
-
-
+database/
 
 # Generated files by hugo
 public/
