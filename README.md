@@ -1,2 +1,16 @@
 # aromatica
-Encyclopedia Aromatica is a spice database website.
+Encyclopedia Aromatica is a future database and website, currently under development. 
+
+<!-- 
+## To Do List
+
+* Check why saffron distribution map works.
+* Rebase the whole repo
+
+## Notes
+
+Use pandoc to convert from latex to markdown:
+
+```bash
+pandoc -s allspice.tex -o allspice-tex.md
+``` -->

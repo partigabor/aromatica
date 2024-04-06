@@ -1,0 +1,1 @@
+As of now, the website contains information on **22** items.
