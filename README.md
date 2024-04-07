@@ -2,7 +2,7 @@
 
 This repository hosts the website and database *Encyclopedia Aromatica*, currently under development.
 
-Peek: https://partigabor.github.io/aromatica/
+>You can take a peek here: https://partigabor.github.io/aromatica/
 
 <!-- 
 ## To Do List
