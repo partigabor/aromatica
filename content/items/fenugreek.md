@@ -32,7 +32,7 @@ The seeds of a West Asian herb, also known as fenugreek (seeds).
 |    cultivation   |                       India                       |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-FENUGREEK is a culinary spice and herb, valued and cultivated for its seed; leaf. It is yielded from the plant *Trigonella foenum-graecum* L., a(n) annual in the *Fabaceae* family, growing in the temperate biome, with the native range of Iraq to N. Pakistan.[^powo_fenugreek]
+FENUGREEK is a culinary spice and herb, cultivated for its seed; leaf. It is yielded from the plant *Trigonella foenum-graecum* L., a annual in the *Fabaceae* family, growing in temperate biome, with a native range of Iraq to N. Pakistan.[^powo_fenugreek]
 
 [^powo_fenugreek]: [Plants of the World Online](https://powo.science.kew.org)
 

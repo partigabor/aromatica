@@ -32,7 +32,7 @@ The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinn
 |    cultivation   |                                                                   Indonesia; China; Vietnam; Timor-Leste; etc.                                                                   |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/463288-1); [GBIF](https://www.gbif.org/species/3033982); [TROP](https://tropicos.org/name/17805773); [EOL](https://eol.org/pages/483593)|
 
-CASSIA is a culinary and medicinal spice, valued and cultivated for its bark; fruit. It is yielded from the plant *Cinnamomum aromaticum* Nees, a(n) tree in the *Lauraceae* family, growing in the subtropical biome, with the native range of SE. China to Vietnam.[^powo_cassia]
+CASSIA is a culinary and medicinal spice, cultivated for its bark; fruit. It is yielded from the plant *Cinnamomum aromaticum* Nees, a tree in the *Lauraceae* family, growing in subtropical biome, with a native range of SE. China to Vietnam.[^powo_cassia]
 
 [^powo_cassia]: [Plants of the World Online](https://powo.science.kew.org)
 

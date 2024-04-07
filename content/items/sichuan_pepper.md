@@ -32,7 +32,7 @@ The numbing, red or green fruits of East Asian prickly ash trees, also known as 
 |    cultivation   |                       China                       |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/775625-1)|
 
-SICHUAN PEPPER is a culinary spice, valued and cultivated for its pericarp. It is yielded from the plant *Zanthoxylum bungeanum* Maxim., a(n) tree in the *Rutaceae* family, growing in the temperate biome, with the native range of Himalaya to China.[^powo_Sichuan pepper]
+SICHUAN PEPPER is a culinary spice, cultivated for its pericarp. It is yielded from the plant *Zanthoxylum bungeanum* Maxim., a tree in the *Rutaceae* family, growing in temperate biome, with a native range of Himalaya to China.[^powo_Sichuan pepper]
 
 [^powo_Sichuan pepper]: [Plants of the World Online](https://powo.science.kew.org)
 

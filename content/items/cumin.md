@@ -32,7 +32,7 @@ The dried seeds of a West Asian flowering plant, also known as brown cumin. It i
 |    cultivation   |                                                         India; Iran; Lebanon                                                         |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/840882-1); [GBIF](https://www.gbif.org/species/3034775); [EOL](https://eol.org/pages/488085)|
 
-CUMIN is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Cuminum cyminum* L., a(n) annual in the *Apiaceae* family, growing in the subtropical biome, with the native range of Iraq to Afghanistan.[^powo_cumin]
+CUMIN is a culinary spice, cultivated for its fruit. It is yielded from the plant *Cuminum cyminum* L., a annual in the *Apiaceae* family, growing in subtropical biome, with a native range of Iraq to Afghanistan.[^powo_cumin]
 
 [^powo_cumin]: [Plants of the World Online](https://powo.science.kew.org)
 

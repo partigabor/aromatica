@@ -36,7 +36,7 @@ The stigmas or styles of the saffron crocus flower; stamen of Crocus sativus, al
 |    cultivation   |                                                                            Iran; Spain; Kashmir; etc.                                                                            |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/436688-1); [GBIF](https://www.gbif.org/species/2747430); [TROP](https://tropicos.org/name/16600120); [EOL](https://eol.org/pages/488247)|
 
-SAFFRON is a culinary spice and dye, valued and cultivated for its stigma (style). It is yielded from the plant *Crocus sativus* L., a(n) tuberous geophyte in the *Iridaceae* family, growing in the subtropical biome, with the native range of a cultigen from Greece.[^powo_saffron]
+SAFFRON is a culinary spice and dye, cultivated for its stigma (style). It is yielded from the plant *Crocus sativus* L., a tuberous geophyte in the *Iridaceae* family, growing in subtropical biome, with a native range of a cultigen from Greece.[^powo_saffron]
 
 [^powo_saffron]: [Plants of the World Online](https://powo.science.kew.org)
 

@@ -90,6 +90,25 @@ def copy_dir(src: str, dst: str, pattern: str = '*'):
 
 
 ################################################################
+def join_with_commas_and_and(a_list):
+    '''
+    Returns a string with commas and 'and' between the last two items in a list.
+    
+        Parameters:
+            a_list (list): List of items.
+            
+        Returns:
+            string (str): String with commas and 'and' between the last two items in the list.
+    '''
+    if len(a_list) > 1:
+        return ', '.join(a_list[:-1]) + ' and ' + a_list[-1]
+    elif a_list:
+        return a_list[0]
+    else:
+        return ""
+    
+        
+################################################################
 from geopy.geocoders import Nominatim
 geolocator = Nominatim(user_agent="MyApp")
 

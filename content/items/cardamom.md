@@ -32,7 +32,7 @@ The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; gree
 |    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/796556-1); [GBIF](https://www.gbif.org/species/2759871); [TROP](https://tropicos.org/name/34500572); [EOL](https://eol.org/pages/1120064)|
 
-CARDAMOM is a culinary and medicinal spice, valued and cultivated for its fruit & seed. It is yielded from the plant *Elettaria cardamomum* (L.) Maton, a(n) rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with the native range of SW. India.[^powo_cardamom]
+CARDAMOM is a culinary and medicinal spice, cultivated for its fruit & seed. It is yielded from the plant *Elettaria cardamomum* (L.) Maton, a rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of SW. India.[^powo_cardamom]
 
 [^powo_cardamom]: [Plants of the World Online](https://powo.science.kew.org)
 

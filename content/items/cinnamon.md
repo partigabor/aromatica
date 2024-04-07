@@ -32,7 +32,7 @@ The inner bark of the cinnamon tree (Cinnamomum zeylanicum) from Sri Lanka, also
 |    cultivation   |                                                                     Sri Lanka; Seychelles; Madagascar; India                                                                     |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/463752-1); [GBIF](https://www.gbif.org/species/3033987); [TROP](https://tropicos.org/name/17800682); [EOL](https://eol.org/pages/490672)|
 
-CINNAMON is a culinary and medicinal spice, valued and cultivated for its bark; leaf. It is yielded from the plant *Cinnamomum verum* J.Presl, a(n) tree in the *Lauraceae* family, growing in the wet tropical biome, with the native range of Sri Lanka.[^powo_cinnamon]
+CINNAMON is a culinary and medicinal spice, cultivated for its bark; leaf. It is yielded from the plant *Cinnamomum verum* J.Presl, a tree in the *Lauraceae* family, growing in wet tropical biome, with a native range of Sri Lanka.[^powo_cinnamon]
 
 [^powo_cinnamon]: [Plants of the World Online](https://powo.science.kew.org)
 

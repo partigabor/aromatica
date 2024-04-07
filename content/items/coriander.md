@@ -32,7 +32,7 @@ The dried fruits of an annual herb, also known as cilantro, also known as corian
 |    cultivation   |                                                              Argentina; India; Morocco; Romania; Spain; Yugoslavia                                                              |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/840760-1); [GBIF](https://www.gbif.org/species/3034871); [TROP](https://tropicos.org/name/1700064); [EOL](https://eol.org/pages/581687)|
 
-CORIANDER is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Coriandrum sativum* L., a(n) annual in the *Apiaceae* family, growing in the subtropical biome, with the native range of E. Medit. to Pakistan.[^powo_coriander]
+CORIANDER is a culinary spice, cultivated for its fruit. It is yielded from the plant *Coriandrum sativum* L., a annual in the *Apiaceae* family, growing in subtropical biome, with a native range of E. Medit. to Pakistan.[^powo_coriander]
 
 [^powo_coriander]: [Plants of the World Online](https://powo.science.kew.org)
 

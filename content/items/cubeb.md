@@ -32,7 +32,7 @@ The dried berries of a Southeast Asian plant resembling black pepper, but with a
 |    cultivation   |                                                                                         Indonesia                                                                                        |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/681071-1); [GBIF](https://www.gbif.org/species/7606629); [TROP](http://legacy.tropicos.org/Name/25002639); [EOL](https://eol.org/pages/51845162)|
 
-CUBEB is a culinary and distillery and medicinal and perfumery spice, valued and cultivated for its unripe fruit. It is yielded from the plant *Piper cubeba* L.f., a(n) nan in the *Piperaceae* family, growing in the wet tropical biome, with the native range of Indo-China to Malesia.[^powo_cubeb]
+CUBEB is a culinary, distillery, medicinal and perfumery spice, cultivated for its unripe fruit. It is yielded from the plant *Piper cubeba* L.f., a nan in the *Piperaceae* family, growing in wet tropical biome, with a native range of Indo-China to Malesia.[^powo_cubeb]
 
 [^powo_cubeb]: [Plants of the World Online](https://powo.science.kew.org)
 

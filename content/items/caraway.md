@@ -32,7 +32,7 @@ The seed-like fruits of an Eurasian herb, also known as caraway (seeds).
 |    cultivation   |                                                                           Denmark; Lebanon; The Netherlands; Poland                                                                          |
 |botanical_database|                                                                      [POWO](https://powo.science.kew.org/taxon/839677-1)                                                                     |
 
-CARAWAY is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Carum carvi* L., a(n) perennial in the *Apiaceae* family, growing in the temperate biome, with the native range of Temp. Eurasia.[^powo_caraway]
+CARAWAY is a culinary spice, cultivated for its fruit. It is yielded from the plant *Carum carvi* L., a perennial in the *Apiaceae* family, growing in temperate biome, with a native range of Temp. Eurasia.[^powo_caraway]
 
 [^powo_caraway]: [Plants of the World Online](https://powo.science.kew.org)
 

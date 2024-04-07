@@ -32,7 +32,7 @@ The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Sy
 |    cultivation   |                                                                           Indonesia; Malaysia; Tanzania                                                                           |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/601421-1); [GBIF](https://www.gbif.org/species/3183002); [TROP](https://tropicos.org/name/22102278); [EOL](https://eol.org/pages/2508665)|
 
-CLOVE is a culinary and medicinal spice, valued and cultivated for its flower buds. It is yielded from the plant *Syzygium aromaticum* (L.) Merr. & L.M.Perry, a(n) shrub or tree in the *Myrtaceae* family, growing in the wet tropical biome, with the native range of Maluku.[^powo_clove]
+CLOVE is a culinary and medicinal spice, cultivated for its flower buds. It is yielded from the plant *Syzygium aromaticum* (L.) Merr. & L.M.Perry, a shrub or tree in the *Myrtaceae* family, growing in wet tropical biome, with a native range of Maluku.[^powo_clove]
 
 [^powo_clove]: [Plants of the World Online](https://powo.science.kew.org)
 

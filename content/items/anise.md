@@ -36,7 +36,7 @@ The seed-like fruits of a Mediterranean herb, also known as anise; aniseed; anis
 |    cultivation   |                                                                    Turkey; Egypt; Spain; Russia; Italy; etc.                                                                    |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/846658-1); [GBIF](https://www.gbif.org/species/8080300); [TROP](https://tropicos.org/name/1700194); [EOL](https://eol.org/pages/581422)|
 
-ANISE is a culinary and distillery spice, valued and cultivated for its fruit; oil; leaf. It is yielded from the plant *Pimpinella anisum* L., a(n) annual in the *Apiaceae* family, growing in the temperate biome, with the native range of SE. Türkiye to C. Israel, Cyprus.[^powo_anise]
+ANISE is a culinary and distillery spice, cultivated for its fruit; oil; leaf. It is yielded from the plant *Pimpinella anisum* L., a annual in the *Apiaceae* family, growing in temperate biome, with a native range of SE. Türkiye to C. Israel, Cyprus.[^powo_anise]
 
 [^powo_anise]: [Plants of the World Online](https://powo.science.kew.org)
 

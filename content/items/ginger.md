@@ -36,7 +36,7 @@ The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger;
 |    cultivation   |                                                                       India; Jamaica; Nigeria; Sierra Leone                                                                      |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/798372-1); [GBIF](https://www.gbif.org/species/2757280); [TROP](https://tropicos.org/name/34500018); [EOL](https://eol.org/pages/987032)|
 
-GINGER is a culinary and medicinal spice, valued and cultivated for its rhizome. It is yielded from the plant *Zingiber officinale* Roscoe, a(n) perennial or rhizomatous geophyte in the *Zingiberaceae* family, growing in the seasonally dry tropical biome, with the native range of India to SC. China.[^powo_ginger]
+GINGER is a culinary and medicinal spice, cultivated for its rhizome. It is yielded from the plant *Zingiber officinale* Roscoe, a perennial or rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of India to SC. China.[^powo_ginger]
 
 [^powo_ginger]: [Plants of the World Online](https://powo.science.kew.org)
 

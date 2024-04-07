@@ -36,7 +36,7 @@ The seed of a peach-like fruit of the nutmeg tree of the Moluccas, Indonesia, al
 |    cultivation   |                                                                                Grenada; Indonesia                                                                                |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/586076-1); [GBIF](https://www.gbif.org/species/5406817); [TROP](https://tropicos.org/name/21800077); [EOL](https://eol.org/pages/596922)|
 
-NUTMEG is a culinary and medicinal spice, valued and cultivated for its seed. It is yielded from the plant *Myristica fragrans* Houtt., a(n) tree in the *Myristicaceae* family, growing in the wet tropical biome, with the native range of Maluku (Banda Is.).[^powo_nutmeg]
+NUTMEG is a culinary and medicinal spice, cultivated for its seed. It is yielded from the plant *Myristica fragrans* Houtt., a tree in the *Myristicaceae* family, growing in wet tropical biome, with a native range of Maluku (Banda Is.).[^powo_nutmeg]
 
 [^powo_nutmeg]: [Plants of the World Online](https://powo.science.kew.org)
 

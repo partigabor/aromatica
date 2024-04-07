@@ -36,7 +36,7 @@ The fruits of Capsicum annuum and other species, also known as chili (pepper); c
 |    cultivation   |                                            Ethiopia; India; Kenya; Mexico; Nigeria; Pakistan; Tanzania; etc.                                            |
 |botanical_database|                                                   [POWO](https://powo.science.kew.org/taxon/316944-2)                                                   |
 
-CHILE is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Capsicum annuum* L., a(n) annual, subshrub or shrub in the *Solanaceae* family, growing in the seasonally dry tropical biome, with the native range of S. U.S.A. to Brazil, Caribbean.[^powo_chile]
+CHILE is a culinary spice, cultivated for its fruit. It is yielded from the plant *Capsicum annuum* L., a annual, subshrub or shrub in the *Solanaceae* family, growing in seasonally dry tropical biome, with a native range of S. U.S.A. to Brazil, Caribbean.[^powo_chile]
 
 [^powo_chile]: [Plants of the World Online](https://powo.science.kew.org)
 

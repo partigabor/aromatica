@@ -36,7 +36,7 @@ The dried fruits of an Indian vine, also known as black pepper; peppercorns. It 
 |    cultivation   |                                                                Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.                                                                |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/682369-1); [GBIF](https://www.gbif.org/species/3086357); [TROP](https://tropicos.org/name/25000013); [EOL](https://eol.org/pages/596620)|
 
-PEPPER is a culinary and medicinal spice, valued and cultivated for its fruit. It is yielded from the plant *Piper nigrum* L., a(n) climber in the *Piperaceae* family, growing in the wet tropical biome, with the native range of SW. India.[^powo_pepper]
+PEPPER is a culinary and medicinal spice, cultivated for its fruit. It is yielded from the plant *Piper nigrum* L., a climber in the *Piperaceae* family, growing in wet tropical biome, with a native range of SW. India.[^powo_pepper]
 
 [^powo_pepper]: [Plants of the World Online](https://powo.science.kew.org)
 

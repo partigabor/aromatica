@@ -32,7 +32,7 @@ The star shaped pericarps of a tree from Vietnam and South China; fruit of Illic
 |    cultivation   |                                                        China; Laos; Vietnam; Korea; Japan; Taiwan; Hainan; Philippines (POWO)                                                        |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/554553-1); [GBIF](https://www.gbif.org/species/2889756); [TROP](https://www.tropicos.org/name/50079582); [EOL](https://eol.org/pages/484056)|
 
-STAR ANISE is a culinary spice, valued and cultivated for its pericarp. It is yielded from the plant *Illicium verum* Hook.f., a(n) tree in the *Schisandraceae* family, growing in the subtropical biome, with the native range of China (S. & W. Guangxi) to N. Vietnam.[^powo_star anise]
+STAR ANISE is a culinary spice, cultivated for its pericarp. It is yielded from the plant *Illicium verum* Hook.f., a tree in the *Schisandraceae* family, growing in subtropical biome, with a native range of China (S. & W. Guangxi) to N. Vietnam.[^powo_star anise]
 
 [^powo_star anise]: [Plants of the World Online](https://powo.science.kew.org)
 

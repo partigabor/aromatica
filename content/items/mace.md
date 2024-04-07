@@ -32,7 +32,7 @@ The aril (seed-covering) of the nutmeg, also known as mace. It is related to [nu
 |    cultivation   |                                                                                Grenada; Indonesia                                                                                |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/586076-1); [GBIF](https://www.gbif.org/species/5406817); [TROP](https://tropicos.org/name/21800077); [EOL](https://eol.org/pages/596922)|
 
-MACE is a culinary spice, valued and cultivated for its aril. It is yielded from the plant *Myristica fragrans* Houtt., a(n) tree in the *Myristicaceae* family, growing in the wet tropical biome, with the native range of Maluku (Banda Is.).[^powo_mace]
+MACE is a culinary spice, cultivated for its aril. It is yielded from the plant *Myristica fragrans* Houtt., a tree in the *Myristicaceae* family, growing in wet tropical biome, with a native range of Maluku (Banda Is.).[^powo_mace]
 
 [^powo_mace]: [Plants of the World Online](https://powo.science.kew.org)
 

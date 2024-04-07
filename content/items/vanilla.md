@@ -36,7 +36,7 @@ The aromatic seed pods of orchid species from America; fruit of Vanilla fragrans
 |    cultivation   |                                                                 Madagascar; Indonesia; Mexico; Papua New Guinea; China                                                                |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/262578-2); [GBIF](https://www.gbif.org/species/2803398); [TROP](https://www.tropicos.org/name/23501046); [EOL](https://eol.org/pages/1127948)|
 
-VANILLA is a culinary spice, valued and cultivated for its fruit. It is yielded from the plant *Vanilla planifolia* Andrews, a(n) climber in the *Orchidaceae* family, growing in the wet tropical biome, with the native range of S. Mexico to Brazil.[^powo_vanilla]
+VANILLA is a culinary spice, cultivated for its fruit. It is yielded from the plant *Vanilla planifolia* Andrews, a climber in the *Orchidaceae* family, growing in wet tropical biome, with a native range of S. Mexico to Brazil.[^powo_vanilla]
 
 [^powo_vanilla]: [Plants of the World Online](https://powo.science.kew.org)
 
