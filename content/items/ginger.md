@@ -36,11 +36,15 @@ The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger;
 |    cultivation   |                                                                       India; Jamaica; Nigeria; Sierra Leone                                                                      |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/798372-1); [GBIF](https://www.gbif.org/species/2757280); [TROP](https://tropicos.org/name/34500018); [EOL](https://eol.org/pages/987032)|
 
-GINGER is a culinary and medicinal spice, cultivated for its rhizome. It is yielded from the plant *Zingiber officinale* Roscoe, a perennial or rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of India to SC. China.[^powo_ginger]
+GINGER is a culinary, and medicinal spice, cultivated for its rhizome. It is yielded from the plant *Zingiber officinale* Roscoe, a perennial or rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of India to SC. China.[^powo_ginger]
 
 [^powo_ginger]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in Asian cooking; anti-emetic. Its aroma is described as fiery, pungent, with a heat index of 7.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Zingiber officinale](/images/illustrations/ginger.png?width=40rem "Illustration of Zingiber officinale from Köhler's Medizinal-Pflanzen")
 

@@ -32,11 +32,15 @@ The bright yellow powder yielded from the rhizomes of Curcuma longa, also known 
 |    cultivation   |                                                                     China; Honduras; India; Indonesia; Jamaica                                                                    |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/796451-1); [GBIF](https://www.gbif.org/species/2757624); [TROP](https://tropicos.org/name/34500029); [EOL](https://eol.org/pages/1122309)|
 
-TURMERIC is a culinary, medicinal and ritualistic spice and dye, cultivated for its rhizome. It is yielded from the plant *Curcuma longa* L., a rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of a cultigen from SW. India.[^powo_turmeric]
+TURMERIC is a culinary, medicinal, and ritualistic spice, and dye, cultivated for its rhizome. It is yielded from the plant *Curcuma longa* L., a rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of a cultigen from SW. India.[^powo_turmeric]
 
 [^powo_turmeric]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in curries, dye; antiseptic. Its aroma is described as warm, acrid, bitter, with a heat index of 3.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Curcuma longa](/images/illustrations/turmeric.png?width=40rem "Illustration of Curcuma longa from Köhler's Medizinal-Pflanzen")
 

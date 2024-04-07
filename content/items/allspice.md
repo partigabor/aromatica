@@ -36,11 +36,15 @@ The dried unripe berries of a small Caribbean tree, also known as allspice; Jama
 |    cultivation   |                                                                             Jamaica; Mexico; Honduras                                                                             |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/196799-2); [GBIF](https://www.gbif.org/species/3186061); [TROP](https://tropicos.org/name/22101787); [EOL](https://eol.org/pages/2508608)|
 
-ALLSPICE is a culinary, medicinal, perfumery and distillery spice, cultivated for its unripe fruit; leaf; wood. It is yielded from the plant *Pimenta dioica* (L.) Merr., a tree in the *Myrtaceae* family, growing in seasonally dry tropical biome, with a native range of S. Mexico to C. America, Caribbean.[^powo_allspice]
+ALLSPICE is a culinary, medicinal, perfumery, and distillery spice, cultivated for its unripe fruit, leaf, and wood. It is yielded from the plant *Pimenta dioica* (L.) Merr., a tree in the *Myrtaceae* family, growing in seasonally dry tropical biome, with a native range of S. Mexico to C. America, Caribbean.[^powo_allspice]
 
 [^powo_allspice]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in pickles, wines, desserts, liquors; spice for jerking meat; leaf oil for flavouring rum; wood to smoke and grill meat. Its aroma is described as pungent, mixed, spicy, with a heat index of 4.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Pimenta dioica](/images/illustrations/allspice.png?width=40rem "Illustration of Pimenta dioica from Köhler's Medizinal-Pflanzen")
 

@@ -36,11 +36,15 @@ The dried resin of Ferula foetida and F. assa-foetida, also known as asafoetida;
 |    cultivation   |                 Iran; Afghanistan                 |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/842277-1)|
 
-ASAFOETIDA is a culinary and medicinal spice, cultivated for its gum-resin (latex). It is yielded from the plant *Ferula foetida* (Bunge) Regel, a perennial in the *Apiaceae* family, growing in temperate biome, with a native range of Iran to C. Asia and W. Pakistan.[^powo_asafoetida]
+ASAFOETIDA is a culinary, and medicinal spice, cultivated for its gum-resin (latex). It is yielded from the plant *Ferula foetida* (Bunge) Regel, a perennial in the *Apiaceae* family, growing in temperate biome, with a native range of Iran to C. Asia and W. Pakistan.[^powo_asafoetida]
 
 [^powo_asafoetida]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in curries; expectorant. Its aroma is described as pungent, rotten, with a heat index of 1.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Ferula foetida](/images/illustrations/asafoetida.png?width=40rem "Illustration of Ferula foetida from Köhler's Medizinal-Pflanzen")
 

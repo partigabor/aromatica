@@ -32,11 +32,15 @@ The dried flower-buds of a tropical tree from the Moluccas, Indonesia; bud of Sy
 |    cultivation   |                                                                           Indonesia; Malaysia; Tanzania                                                                           |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/601421-1); [GBIF](https://www.gbif.org/species/3183002); [TROP](https://tropicos.org/name/22102278); [EOL](https://eol.org/pages/2508665)|
 
-CLOVE is a culinary and medicinal spice, cultivated for its flower buds. It is yielded from the plant *Syzygium aromaticum* (L.) Merr. & L.M.Perry, a shrub or tree in the *Myrtaceae* family, growing in wet tropical biome, with a native range of Maluku.[^powo_clove]
+CLOVE is a culinary, and medicinal spice, cultivated for its flower buds. It is yielded from the plant *Syzygium aromaticum* (L.) Merr. & L.M.Perry, a shrub or tree in the *Myrtaceae* family, growing in wet tropical biome, with a native range of Maluku.[^powo_clove]
 
 [^powo_clove]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in meats, sauces; anesthetic. Its aroma is described as sweet, pungent, astringent, with a heat index of 5.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Syzygium aromaticum](/images/illustrations/clove.png?width=40rem "Illustration of Syzygium aromaticum from Köhler's Medizinal-Pflanzen")
 

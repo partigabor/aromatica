@@ -32,11 +32,15 @@ The seeds of a West Asian herb, also known as fenugreek (seeds).
 |    cultivation   |                       India                       |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/523957-1)|
 
-FENUGREEK is a culinary spice and herb, cultivated for its seed; leaf. It is yielded from the plant *Trigonella foenum-graecum* L., a annual in the *Fabaceae* family, growing in temperate biome, with a native range of Iraq to N. Pakistan.[^powo_fenugreek]
+FENUGREEK is a culinary spice, and herb, cultivated for its seed, and leaf. It is yielded from the plant *Trigonella foenum-graecum* L., a annual in the *Fabaceae* family, growing in temperate biome, with a native range of Iraq to N. Pakistan.[^powo_fenugreek]
 
 [^powo_fenugreek]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;hill_2004_contemporary" >}}
+It is used primarily in curries, breads; diabetes. Its aroma is described as like burnt sugar, bitter, with a heat index of 2.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;hill_2004_contemporary" >}}
 
 ![Trigonella foenum-graecum](/images/illustrations/fenugreek.png?width=40rem "Illustration of Trigonella foenum-graecum from Köhler's Medizinal-Pflanzen")
 

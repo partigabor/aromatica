@@ -32,11 +32,15 @@ The dried berries of a Southeast Asian plant resembling black pepper, but with a
 |    cultivation   |                                                                                         Indonesia                                                                                        |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/681071-1); [GBIF](https://www.gbif.org/species/7606629); [TROP](http://legacy.tropicos.org/Name/25002639); [EOL](https://eol.org/pages/51845162)|
 
-CUBEB is a culinary, distillery, medicinal and perfumery spice, cultivated for its unripe fruit. It is yielded from the plant *Piper cubeba* L.f., a nan in the *Piperaceae* family, growing in wet tropical biome, with a native range of Indo-China to Malesia.[^powo_cubeb]
+CUBEB is a culinary, distillery, medicinal, and perfumery spice, cultivated for its unripe fruit. It is yielded from the plant *Piper cubeba* L.f., a nan in the *Piperaceae* family, growing in wet tropical biome, with a native range of Indo-China to Malesia.[^powo_cubeb]
 
 [^powo_cubeb]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in gins; cooking; anti-asthma, diuretic. Its aroma is described as pungent, camphor-like, peppery, with a heat index of 3.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Piper cubeba](/images/illustrations/cubeb.png?width=40rem "Illustration of Piper cubeba from Köhler's Medizinal-Pflanzen (1887)")
 

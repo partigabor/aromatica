@@ -36,7 +36,11 @@ SICHUAN PEPPER is a culinary spice, cultivated for its pericarp. It is yielded f
 
 [^powo_Sichuan pepper]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary" >}}
+It is used primarily in meats; colic. Its aroma is described as woodsy, peppery, with a heat index of 3.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary" >}}
 
 
 

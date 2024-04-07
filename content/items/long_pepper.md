@@ -32,11 +32,15 @@ The spike-like cluster of fruits of Piper longum, also known as Indian long pepp
 |    cultivation   |                                                                            India; Indonesia; Thailand                                                                            |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/682031-1); [GBIF](https://www.gbif.org/species/3086338); [TROP](https://tropicos.org/name/25000012); [EOL](https://eol.org/pages/489436)|
 
-LONG PEPPER is a culinary and medicinal spice, cultivated for its fruit. It is yielded from the plant *Piper longum* L., a climbing perennial or subshrub in the *Piperaceae* family, growing in temperate biome, with a native range of E. Himalaya to China (S. Yunnan) and Indo-China.[^powo_long pepper]
+LONG PEPPER is a culinary, and medicinal spice, cultivated for its fruit. It is yielded from the plant *Piper longum* L., a climbing perennial or subshrub in the *Piperaceae* family, growing in temperate biome, with a native range of E. Himalaya to China (S. Yunnan) and Indo-China.[^powo_long pepper]
 
 [^powo_long pepper]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in South and Souteast Asian cuisine; Ayurveda and TCM. Its aroma is described as pungent, peppery, with a heat index of 4-9.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 
 

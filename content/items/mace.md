@@ -36,7 +36,11 @@ MACE is a culinary spice, cultivated for its aril. It is yielded from the plant 
 
 [^powo_mace]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in confectionary; peptic ulcers. Its aroma is described as sweet, bitter, salty, with a heat index of 1.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Myristica fragrans](/images/illustrations/mace.png?width=40rem "Illustration of Myristica fragrans from Köhler's Medizinal-Pflanzen")
 

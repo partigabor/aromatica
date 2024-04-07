@@ -36,11 +36,15 @@ The dried fruits of an Indian vine, also known as black pepper; peppercorns. It 
 |    cultivation   |                                                                Vietnam; Brazil; Indonesia; India; Sri Lanka; etc.                                                                |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/682369-1); [GBIF](https://www.gbif.org/species/3086357); [TROP](https://tropicos.org/name/25000013); [EOL](https://eol.org/pages/596620)|
 
-PEPPER is a culinary and medicinal spice, cultivated for its fruit. It is yielded from the plant *Piper nigrum* L., a climber in the *Piperaceae* family, growing in wet tropical biome, with a native range of SW. India.[^powo_pepper]
+PEPPER is a culinary, and medicinal spice, cultivated for its fruit. It is yielded from the plant *Piper nigrum* L., a climber in the *Piperaceae* family, growing in wet tropical biome, with a native range of SW. India.[^powo_pepper]
 
 [^powo_pepper]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in flavors; colds; pepper steak; poivrade sauce; Pfefferkuchen. Its aroma is described as pungent, hot, with a heat index of 3-8.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Piper nigrum](/images/illustrations/pepper.png?width=40rem "Illustration of Piper nigrum from Köhler's Medizinal-Pflanzen")
 

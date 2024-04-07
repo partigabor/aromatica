@@ -32,11 +32,15 @@ The green seed pods of an Indian plant, also known as cardamom, -mon, -mum; gree
 |    cultivation   |                                                              Guatemala; India; Sri Lanka; Tanzania; Papua New Guinea                                                              |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/796556-1); [GBIF](https://www.gbif.org/species/2759871); [TROP](https://tropicos.org/name/34500572); [EOL](https://eol.org/pages/1120064)|
 
-CARDAMOM is a culinary and medicinal spice, cultivated for its fruit & seed. It is yielded from the plant *Elettaria cardamomum* (L.) Maton, a rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of SW. India.[^powo_cardamom]
+CARDAMOM is a culinary, and medicinal spice, cultivated for its fruit & seed. It is yielded from the plant *Elettaria cardamomum* (L.) Maton, a rhizomatous geophyte in the *Zingiberaceae* family, growing in seasonally dry tropical biome, with a native range of SW. India.[^powo_cardamom]
 
 [^powo_cardamom]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in desserts, coffees, curries. Its aroma is described as pungent, eucalyptus-like, with a heat index of 2.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Elettaria cardamomum](/images/illustrations/cardamom.png?width=40rem "Illustration of Elettaria cardamomum from Köhler's Medizinal-Pflanzen")
 

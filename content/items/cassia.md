@@ -32,11 +32,15 @@ The inner bark of Southeast Asian trees, also known as cassia bark; Chinese cinn
 |    cultivation   |                                                                   Indonesia; China; Vietnam; Timor-Leste; etc.                                                                   |
 |botanical_database|[POWO](https://powo.science.kew.org/taxon/463288-1); [GBIF](https://www.gbif.org/species/3033982); [TROP](https://tropicos.org/name/17805773); [EOL](https://eol.org/pages/483593)|
 
-CASSIA is a culinary and medicinal spice, cultivated for its bark; fruit. It is yielded from the plant *Cinnamomum aromaticum* Nees, a tree in the *Lauraceae* family, growing in subtropical biome, with a native range of SE. China to Vietnam.[^powo_cassia]
+CASSIA is a culinary, and medicinal spice, cultivated for its bark, and fruit. It is yielded from the plant *Cinnamomum aromaticum* Nees, a tree in the *Lauraceae* family, growing in subtropical biome, with a native range of SE. China to Vietnam.[^powo_cassia]
 
 [^powo_cassia]: [Plants of the World Online](https://powo.science.kew.org)
 
- See more in  {{< cite "powo;petruzzello_2023_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
+It is used primarily in flavor; diarrhea. Its aroma is described as pungent, cinnamon-like, with a heat index of 3.[^ucla_2002_medicinal]
+
+[^ucla_2002_medicinal]: Medicinal Spices Exhibit. (2002). UCLA Biomedical Library: History & Special Collections. https://unitproj.library.ucla.edu/biomed/spice/index.cfm?spicefilename=taste.txt&itemsuppress=yes&displayswitch=0
+
+See more in  {{< cite "powo;petruzzello_2021_list;vanwyk_2014_culinary;dalby_2000_dangerous;hill_2004_contemporary;anderson_2023_history" >}}
 
 ![Cinnamomum aromaticum](/images/illustrations/cassia.png?width=40rem "Illustration of Cinnamomum aromaticum from Köhler's Medizinal-Pflanzen")
 
