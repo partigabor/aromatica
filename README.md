@@ -1,5 +1,6 @@
 # aromatica
-Encyclopedia Aromatica is a future database and website, currently under development. 
+
+This repository hosts the website and database *Encyclopedia Aromatica*, currently under development. 
 
 <!-- 
 ## To Do List
