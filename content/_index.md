@@ -8,7 +8,7 @@ bibFile = "static/bibliography/parti.json"
 
 # Welcome to Aromatica
 
-**The database is under construction, please come back later in 2024.**
+**The database is under construction, please come back later in 2025.**
 
 *Aromatica* is a database containing historical, cultural, and linguistic information on spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.
 
