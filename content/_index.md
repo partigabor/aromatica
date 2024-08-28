@@ -6,7 +6,9 @@ author = "Gabor Parti"
 bibFile = "static/bibliography/parti.json"
 +++
 
-# Welcome to Aromatica
+# # TESTING # TESTING # TESTING #
+
+## Welcome to Aromatica
 
 **The database is under construction, please come back later in 2025.**
 

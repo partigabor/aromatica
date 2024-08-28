@@ -1,7 +1,7 @@
 +++
 title = "Ginger"
 author = "Gabor Parti"
-date = "2024-04-07"
+date = "2024-08-28"
 description = "The aromatic rhizomes of the ginger plant, fresh or dried, also known as ginger; common ginger. It is related to [turmeric](../items/turmeric)."
 weight = 10
 # draft = "true"
