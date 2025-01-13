@@ -1,5 +1,5 @@
 +++
-title = "Sources"
+title = "Resources"
 author = "Gabor Parti"
 date = "2023-11-01T00:00:00+08:00"
 description = "Resources for the spice database."
@@ -39,7 +39,17 @@ Aristotle. (1926). Nicomachean ethics (H. Rackham, Trans.). https://doi.org/10.4
 
 ### Chinese Sources
 
-* [*Liji* 禮記](https://en.wikipedia.org/wiki/Book_of_Rites) [The Book of Rites]. (n.d.). Warring States period, 475–221 BC
+Travellers:
+
+
+Faxian
+Xuanzang
+Yijing
+
+Abd al-Razzaq Samarqandi
+Niccolo Conti
+
+<!-- * [*Liji* 禮記](https://en.wikipedia.org/wiki/Book_of_Rites) [The Book of Rites]. (n.d.). Warring States period, 475–221 BC -->
 * Fan Ye. (5th c.) [*Hou Hanshu* 後漢書](https://en.wikipedia.org/wiki/Book_of_the_Later_Han) [Book of the Later Han]
 * Ji Han. (c. 304). [*Nanfang Caomu Zhuang* 南方草木狀](https://en.wikipedia.org/wiki/Nanfang_Caomu_Zhuang) [Plants of the Southern Regions] --- oldest extant botanical treatise on subtropical plants.
 * Li Shizhen. (1578). [*Bencao Gangmu* 本草綱目](https://en.wikipedia.org/wiki/Bencao_Gangmu) [Compendium of Materia Medica]. --- the most comprehensive *bencao* (pharmacopeia) of pre-modern China.
