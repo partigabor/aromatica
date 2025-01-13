@@ -1,5 +1,5 @@
 +++
-title = "Spice legends and anecdotes, fact-checking the stories surrounding spices"
+title = "Legends"
 author = "Gabor Parti"
 date = "2024-10-01T00:00:00+08:00"
 description = "Spice legends and anecdotes, fact-checking the stories surrounding spices."
@@ -7,7 +7,7 @@ weight = 20
 categories = []
 tags = []
 draft = false
-hidden = false
+hidden = true
 plotly = true
 bibFile = "static/bibliography/parti.json"
 disableComments = true
