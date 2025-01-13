@@ -2,11 +2,10 @@ title = 'Aromatica'
 baseURL = 'https://partigabor.github.io/aromatica/'
 author.name = "Gabor Parti"
 images = [ "images/favicon.svg" ]
-canonifyURLs = true
-relativeURLs = true
+# canonifyURLs = true
+# relativeURLs = true
 
-# Language default
-languageCode = 'en-us'
+defaultContentLanguage = 'en'
 
 # Change the default theme to be use when building the site with Hugo
 theme = ["hugo-theme-relearn", "hugo-cite"]
