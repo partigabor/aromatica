@@ -3,8 +3,8 @@ baseURL = 'https://partigabor.github.io/aromatica/'
 author.name = "Gabor Parti"
 # images = [ "images/favicon.svg" ]
 
-canonifyURLs = true
-# relativeURLs = true
+canonifyURLs = true # this setting allows fonts to work on all pages but breaks the resources shortcode
+# relativeURLs = true # ??
 
 defaultContentLanguage = 'en'
 
@@ -163,7 +163,6 @@ weight = 50
   themeVariant = [
     { identifier = "relearn-dark"   },
     { identifier = "relearn-light"  },
-    # { identifier = "zen-dark"       },
     # { identifier = "neon"           },
   ]
   # Change the breadcrumb separator. Default to ">".
