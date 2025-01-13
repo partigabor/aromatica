@@ -1,8 +1,9 @@
 title = 'Aromatica'
 baseURL = 'https://partigabor.github.io/aromatica/'
 author.name = "Gabor Parti"
-images = [ "images/favicon.svg" ]
-# canonifyURLs = true
+# images = [ "images/favicon.svg" ]
+
+canonifyURLs = true
 # relativeURLs = true
 
 defaultContentLanguage = 'en'
