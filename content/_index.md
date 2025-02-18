@@ -6,11 +6,11 @@ author = "Gabor Parti"
 bibFile = "static/bibliography/parti.json"
 +++
 
-# # TESTING # TESTING # TESTING #
+# # TESTING #
+
+**The website is currently under construction, please come back later.**
 
 ## Welcome to Aromatica
-
-**The database is under construction, please come back later in 2025.**
 
 *Aromatica* is a database containing historical, cultural, and linguistic information on spices, herbs, incense, and other aromatics, aiming to gather the whole spectrum of these unique materials.
 
